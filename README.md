@@ -1,4 +1,4 @@
-# Triplet Loss Signature Verification with TensorFlow on TPU
+# Triplet Loss Signature Verification
 
 This project implements an offline signature verification system using deep metric learning. It trains a **ResNet50-based Siamese triplet network** with **semi-hard triplet loss**, enabling robust distinction between genuine and forged signatures. Training is accelerated via **TPU**, and generalization is improved through **data augmentation** and **K-Fold cross-validation**.
 
